@@ -3,36 +3,31 @@
 ## Status
 
 - [x] Linux Fundamentals
-- [ ] Linux Essentials
+- [x] Linux Essentials
 
 ## Topics Covered
 
 - Filesystem navigation
-- File operations
-- Users and groups
-- Permissions
-- Package management
-- Archives and compression
+- Users and Groups
+- Linux Permissions
+- Package Management (APT)
+- SSH
+- Nginx
+- systemd services
+- Processes (PID/PPID)
+- Signals
+- Logs (journalctl)
+- Routing (ip route)
+- DNS (dig, nslookup)
+- ARP (ip neigh)
 
-## Commands Practiced
+## Labs completed
 
-pwd
-ls
-cd
-cp
-mv
-rm
-mkdir
-
-whoami
-groups
-id
-adduser
-
-chmod
-chown
-chgrp
-
-apt update
-apt upgrade
-apt install
+- Installed Ubuntu Server in VirtualBox
+- Configured SSH Server
+- Configured NAT Port Forwarding
+- Connected via SSH from Windows
+- Installed and tested Nginx
+- Analyzed processes with ps and top
+- Viewed logs with journalctl
+- Tested routing and DNS
