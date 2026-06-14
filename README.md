@@ -4,15 +4,16 @@ This repository documents my transition from Network Engineering to Cloud & DevO
 
 ## Background
 
-- BSc in Applied Electronics
-- MSc in Communications Networks
+- B.Eng. in Electronics, Telecommunications, and Information Technology
+- M.Eng. in Communications Networks
 - Network Engineer experience
+- CCNA Modules 1/2/3
 - AWS Certified Cloud Practitioner
 
 ## Learning Roadmap
 
 - [x] Linux Fundamentals
-- [ ] Linux Essentials
+- [x] Linux Essentials
 - [ ] Git & GitHub
 - [ ] Bash Scripting
 - [ ] Docker
