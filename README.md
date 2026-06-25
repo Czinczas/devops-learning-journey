@@ -13,9 +13,8 @@ This repository documents my transition from Network Engineering to Cloud & DevO
 ## Learning Roadmap
 
 - [x] Linux Fundamentals
-- [x] Linux Essentials
-- [ ] Git & GitHub
 - [ ] Bash Scripting
+- [ ] Git & GitHub
 - [ ] Docker
 - [ ] AWS Projects
 - [ ] CI/CD
