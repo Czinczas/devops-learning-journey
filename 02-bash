@@ -1,0 +1,116 @@
+# 🐧 Linux & Bash Scripting
+
+This directory contains my Bash scripting exercises and mini-projects completed while learning Linux scripting from scratch.
+
+The goal of these exercises is to understand Bash syntax, Linux command-line automation, and basic scripting logic by writing scripts without relying on copy-paste solutions.
+
+---
+
+# 📚 Topics Covered
+
+## Variables & User Input
+
+- Variables
+- User input using `read`
+- Output using `echo`
+- Command substitution (`$(...)`)
+
+## Conditional Statements
+
+- `if`
+- `elif`
+- `else`
+- Numeric comparisons (`-eq`, `-gt`, `-lt`, `-ge`, `-le`, `-ne`)
+- String comparisons
+- File tests:
+  - `-e` (exists)
+  - `-d` (directory)
+  - `-r` (readable)
+  - `-w` (writable)
+  - `-x` (executable)
+  - `-s` (not empty)
+
+## Case Statements
+
+- Interactive menus
+- User input handling
+- Multiple-choice execution
+
+## For Loops
+
+- Iterating through lists
+- Iterating through numeric ranges
+- Arithmetic `for` loops
+- Iterating through command output
+- Nested loops (basic understanding)
+
+---
+
+# 💻 Exercises Implemented
+
+## Basic Bash Scripts
+
+- Greeting script
+- User information script
+- File existence checker
+- Directory content explorer
+- File renaming utility
+- Interactive Linux menu using `case`
+- Number comparison
+- File permission checker
+
+## For Loop Exercises
+
+- Iterating through lists
+- Creating multiple files
+- Removing multiple files
+- Creating multiple directories
+- Dynamic directory creation
+- Batch file existence verification
+- Batch permission verification
+- User enumeration from `/etc/passwd`
+- Backup directory generator
+- Combined scripting exercises using loops and conditionals
+
+---
+
+# 🛠 Linux Commands Practiced
+
+- `echo`
+- `read`
+- `touch`
+- `mkdir`
+- `rm`
+- `mv`
+- `pwd`
+- `hostname`
+- `whoami`
+- `who`
+- `date`
+- `ls`
+- `awk`
+- `grep`
+
+---
+
+# 🎯 Skills Developed
+
+- Writing Bash scripts from scratch
+- Understanding Bash scripting fundamentals
+- Working with variables and user input
+- Combining loops with conditional statements
+- Working with files and directories
+- Automating repetitive Linux tasks
+- Processing command output inside scripts
+- Developing problem-solving skills through scripting exercises
+
+---
+
+# 🚀 Next Topics
+
+- While Loops
+- Functions
+- Script Arguments (`$1`, `$2`, ...)
+- Exit Codes (`$?`)
+- Arrays
+- Shell Automation Projects
