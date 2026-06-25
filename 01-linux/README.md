@@ -1,9 +1,5 @@
 # Linux
 
-## Status
-
-- [x] Linux Fundamentals
-- [x] Linux Essentials
 
 ## Topics Covered
 
