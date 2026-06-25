@@ -1,4 +1,4 @@
-# 🐧 Linux & Bash Scripting
+# Linux & Bash Scripting
 
 This directory contains my Bash scripting exercises and mini-projects completed while learning Linux scripting from scratch.
 
@@ -6,7 +6,7 @@ The goal of these exercises is to understand Bash syntax, Linux command-line aut
 
 ---
 
-# 📚 Topics Covered
+# Topics Covered
 
 ## Variables & User Input
 
@@ -46,7 +46,7 @@ The goal of these exercises is to understand Bash syntax, Linux command-line aut
 
 ---
 
-# 💻 Exercises Implemented
+# Exercises Implemented
 
 ## Basic Bash Scripts
 
@@ -93,7 +93,7 @@ The goal of these exercises is to understand Bash syntax, Linux command-line aut
 
 ---
 
-# 🎯 Skills Developed
+# Skills Developed
 
 - Writing Bash scripts from scratch
 - Understanding Bash scripting fundamentals
@@ -106,7 +106,7 @@ The goal of these exercises is to understand Bash syntax, Linux command-line aut
 
 ---
 
-# 🚀 Next Topics
+# Next Topics
 
 - While Loops
 - Functions
